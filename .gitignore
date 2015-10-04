@@ -5,3 +5,5 @@ geoconverter.pyc
 geoparse.pyc
 SPECIES_DICT.pyc
 .*
+.ipynb_checkpoints
+.DS_Store
